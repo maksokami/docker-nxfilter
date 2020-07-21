@@ -2,7 +2,7 @@
 This image is based on debian and supports ARM as well.
 Takes a minute to start for the first time to create the DB.
 
-https://hub.docker.com/repository/docker/maksokami/nxfilter
+https://hub.docker.com/r/maksokami/nxfilter
 
 # Ports
 - 53 - DNS
